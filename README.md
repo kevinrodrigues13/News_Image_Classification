@@ -1,6 +1,6 @@
 # News_Image_Classification
 
-## Required Modules
+## Required Dependencies
 ```
 Cuda
 Python
